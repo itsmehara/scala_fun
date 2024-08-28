@@ -1,7 +1,7 @@
 # Scala_Fun
 scala practice program
 
-Absolutely! Transitioning from Python to Scala is an exciting journey, especially given Scala's strong functional programming capabilities and its use in big data frameworks like Apache Spark. Here's a detailed list of sections and chapters you might want to cover as you practice Scala programming. Each section includes fundamental topics and concepts to help structure your learning and coding practice.
+Transitioning from Python to Scala is an exciting journey, especially given Scala's strong functional programming capabilities and its use in big data frameworks like Apache Spark. Here's a detailed list of sections and chapters you might want to cover as you practice Scala programming. Each section includes fundamental topics and concepts to help structure your learning and coding practice.
 
 ### **1. Introduction to Scala**
 
